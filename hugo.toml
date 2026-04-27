@@ -5,7 +5,7 @@ theme = 'ananke'
 
 # Theme parameters
 [params]
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+ #  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   site_logo = ""
   description = "The last theme you'll ever need"
   body_classes = "avenir bg-near-white"
